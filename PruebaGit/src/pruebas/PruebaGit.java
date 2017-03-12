@@ -10,6 +10,7 @@ public class PruebaGit {
 		System.out.println("Inicio5");
 		System.out.println("Inicio6");
 		System.out.println("Inicio7");
+		System.out.println("Inicio10");
 	}
 
 }
