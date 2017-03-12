@@ -8,6 +8,7 @@ public class PruebaGit {
 		System.out.println("Inicio3");
 		System.out.println("Inicio4");
 		System.out.println("Inicio5");
+		System.out.println("Inicio6");
 	}
 
 }
